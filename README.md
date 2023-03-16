@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Frontend Mentor solution URL: [3 Column Card Component Solution]()
-- Live Site URL: [3 Column Card Component Live Website]()
+- Frontend Mentor solution URL: [3 Column Card Component Solution](https://www.frontendmentor.io/solutions/3column-preview-card-component-cFMvmr4x1b)
+- Live Site URL: [3 Column Card Component Live Website](https://rfcho322.github.io/fem-three-column-component/)
 
 ## My process
 

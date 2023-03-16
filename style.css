@@ -40,11 +40,6 @@ p, h1, h2, h3, h4, h5, h6 {
     isolation: isolate;
 }
 
-/* DEFAULTS */
-a {
-    text-decoration: none;
-}
-
 /* CUSTOM PROPERTIES */
 .bg-orange {
     background-color: var(--clr-orange);
@@ -165,10 +160,10 @@ main {
 }
 
 .footer a {
-    color: var(--clr-orange);
+    color: var(--clr-cyan-200);
+    text-decoration: none;
 }
 
 .footer a:hover, .footer a:focus {
-    color: var(--clr-orange);
-    filter: brightness(85%);
+    color: var(--clr-cyan-100);
 }

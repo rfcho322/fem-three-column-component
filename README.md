@@ -27,13 +27,13 @@ Users should be able to:
   <strong>Desktop</strong>
 </p>
 <p align="center">
-  <img src="/images/ss-desktop.png"/>
+  <img src="images/ss-desktop.png"/>
 </p>
 <p align="center">
   <strong>Mobile</strong>
 </p>
 <p align="center">
-  <img src="/images/ss-mobile.png"/>
+  <img src="images/ss-mobile.png"/>
 </p>
 
 ### Links
